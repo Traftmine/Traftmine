@@ -73,7 +73,7 @@ I love turning raw data into meaningful insight — building tools, pipelines, a
 ## 🔗 Let’s Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-royer-)
-- 🧪 [Portfolio / Website](https://traftmine.github.io/)
+- 🧪 [Portfolio / Website](https://traftmine.github.io/) Still in build
 - ✉️ Email: Text me on LinkedIn
 
 ---
