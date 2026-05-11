@@ -61,15 +61,6 @@ I love turning raw data into meaningful insight — building tools, pipelines, a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Traftmine&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Traftmine&layout=compact&theme=tokyonight&hide_border=true" width="36%"/>
-</p>
-
----
-
 ## 🔗 Let’s Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-royer-)
