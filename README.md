@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Léo — aka @Traftmine
+# 👋 Hi, I’m Léo
 
 🎓 I’m an Master’s student in **Applied and Computational Mathematics** at *La Rochelle University*, specializing in:
 
