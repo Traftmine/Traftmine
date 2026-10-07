@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Léo — aka @Traftmine
 
-🎓 I’m a Master’s student in **Applied and Computational Mathematics** at *La Rochelle University*, specializing in:
+🎓 I’m an Master’s student in **Applied and Computational Mathematics** at *La Rochelle University*, specializing in:
 
 - 🧠 Data Science & Machine Learning  
 - 🖼️ Image & Signal Processing  
@@ -64,7 +64,6 @@ I love turning raw data into meaningful insight — building tools, pipelines, a
 ## 🔗 Let’s Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-royer-)
-- 🧪 [Portfolio / Website](https://traftmine.github.io/) Still in build
 - ✉️ Email: Text me on LinkedIn
 
 ---
